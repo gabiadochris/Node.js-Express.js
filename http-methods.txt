@@ -1,0 +1,16 @@
+//HTTP METHODS
+
+//GET - Read Data
+//POST - Insert Data
+//PUT - Update Data
+//DELETE -Delete Data
+
+//GET   www.store.com/api/order      get all orders
+
+//POST  www.store.com/api/orderss   place an order(send data)
+
+//GET   www.store.com/api/order/:id      get single order (path params)
+
+//PUT  www.store.com/api/orders/:id     updata specific order(params + send data)
+
+//DELETE  www.store.com/api/orders/:id   data order(path params)
